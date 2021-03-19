@@ -12,6 +12,7 @@ v8_embedder_string = "-electron.0"
 v8_enable_snapshot_native_code_counters = false
 
 enable_cdm_host_verification = false
+enable_mse_mpeg2ts_stream_parser = true
 proprietary_codecs = true
 ffmpeg_branding = "Chrome"
 
